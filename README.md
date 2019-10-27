@@ -1,3 +1,3 @@
 # secKill
 秒杀系统实现记录
-第一天环境搭建：整合druid,mybatis,thymeleaf,lombok
+第一二天实现记录上传至day02
